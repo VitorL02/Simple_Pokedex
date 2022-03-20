@@ -12,6 +12,7 @@ ul{
 body{
     font-family: 'Poppins', sans-serif;
     background-color: #DADFE8;
+    overflow-x: none;
 }
 
 
